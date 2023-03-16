@@ -69,6 +69,7 @@
 ### 🔢 &nbsp; Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prayag_kb?hide=ranking)
 
+##
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/prayag-kb/"><img align="left" alt="mysql" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> &nbsp;
