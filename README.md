@@ -31,14 +31,14 @@
 ##
 ### 📅 Database Management
 
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;"  title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="sqlite" width="30px" style="padding-right:10px;"  title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg"/>
-<img align="left" alt="sqal" width="30px" style="padding-right:10px;"  title="SQAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
-<img align="left" alt="postgres" width="30px" style="padding-right:10px;" title="PostgresSQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="mysql" width="55px" style="padding-right:10px;"  title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="sqlite" width="55px" style="padding-right:10px;"  title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg"/>
+<img align="left" alt="sqal" width="55px" style="padding-right:10px;"  title="SQAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
+<img align="left" alt="postgres" width="55px" style="padding-right:10px;" title="PostgresSQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
 ##
 ##
-### 🛠 Machine Learning & Data Analytics
+### 📈 Machine Learning & 📊 Data Analytics
 
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -52,45 +52,25 @@
 
 ##
 ##
-### 🛠 Deep Learning & NLP
-
+### 🧠 Deep Learning & 🔤 NLP
+ 
 <img align="left" alt="tf" width="30px" style="padding-right:10px;" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="keras" width="30px" style="padding-right:10px;" title="Keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="OpenCV" width="35px" style="padding-right:20px;" title="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="MoviePy" width="40px" style="padding-right:20px;" title="MoviePy" src="https://github.com/prayagkb/ML-Mid-Mini-Projects/blob/main/header-image.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" title="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+<img align="left" alt="cvat" width="90px" style="padding-right:10px;" title="CVAT" src="https://github.com/prayagkb/ML-Mid-Mini-Projects/blob/main/CVAT-Logo-complet-300x83.svg" />
+<img align="left" alt="MoviePy" width="110px" style="padding-right:10px;" title="MoviePy" src="https://github.com/prayagkb/ML-Mid-Mini-Projects/blob/main/header-image_.svg" />
 
-<br /> 
-<br />
 
+
+##
+##
+### 🔢 &nbsp; Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prayag_kb?hide=ranking)
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
-<!--
-**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
+<a href="https://www.linkedin.com/in/prayag-kb/"><img align="left" alt="mysql" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> &nbsp;
+<a href="mailto:prayagkb1@gmail.como"><img align="left" alt="mysql" width="55px" height="55px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a> &nbsp;
+<a href="https://instagram.com/prayag_kb"><img align="left" alt="mysql" width="55px" style="padding-right:10px;"  title="Insta" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a> &nbsp;
