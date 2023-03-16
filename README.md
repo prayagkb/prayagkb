@@ -4,6 +4,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=prayagkb&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/prayagkb?label=follow&style=social)](https://github.com/prayagkb)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Data Science student at Indian Institute of Technology, Madras. Pursuing Data Science & Applications.\
@@ -13,8 +14,7 @@
 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence, Deep Learning and Computer Vision.\
 ✍️ &nbsp; In my free time, I cook, play cricket and explore new techs as my hobbies.\
 ✉️ &nbsp; You can email me at prayagkb@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1e4Mx6X7IZuwaPb4RdfybzAcHsCB6T3f2/view?usp=sharing) for more details about academics, work experience.\
-
+📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1e4Mx6X7IZuwaPb4RdfybzAcHsCB6T3f2/view?usp=sharing) for more details about academics, work experience.
 
 ### 🛠 Languages and Tools
 
@@ -27,7 +27,6 @@
 <img align="left" alt="vscode" width="40px" style="padding-right:20px;" title="VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-##
 ##
 ### 📅 Database Management
 
