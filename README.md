@@ -28,6 +28,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 ##
+##
 ### 📅 Database Management
 
 <img align="left" alt="mysql" width="55px" style="padding-right:10px;"  title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
