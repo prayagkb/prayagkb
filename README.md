@@ -67,7 +67,7 @@
 ##
 ##
 ### 🔢 &nbsp; Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/prayag_kb?hide=ranking)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prayag_kb?theme=light&font=Nanum%20Brush%20Script)
 
 ##
 ### 📫 &nbsp; How to reach me:
